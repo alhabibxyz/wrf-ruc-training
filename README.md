@@ -3,7 +3,7 @@
 
 **Topics** 
 - Update WPS [topography and land use]
-- Convert ECMWF IFS HRES [GRIB1]
+- Convert ECMWF IFS HRES for WPS [GRIB1]
 - Run WPS
 - Update initial conditions using WRFDA [RUC]
 - Run WRF free forecast
